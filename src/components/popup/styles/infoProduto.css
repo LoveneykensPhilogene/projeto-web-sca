@@ -1,0 +1,14 @@
+.container-input{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    justify-items: center;
+    margin-right: 95%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+#input{
+width: 20px;
+height: 20px;
+}

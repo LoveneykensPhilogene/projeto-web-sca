@@ -1,0 +1,40 @@
+
+.container-global{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+    
+.container-item{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.container-aba{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+input{
+    width: 300px;
+    border: 1p black ;
+    transform: none;
+}
+
+label{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+textarea{
+    width: 400px;
+    border: 1px black;
+    border-radius: 10px;
+    background-color: aliceblue;
+    background-size: contain;
+}
